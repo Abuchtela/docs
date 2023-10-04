@@ -157,7 +157,7 @@
     "nodemon": "^2.0.7",
     "npm-merge-driver-install": "^2.0.1",
     "object-hash": "^2.1.1",
-    "postcss": "^8.3.0",
+    "postcss": "^8.4.31",
     "prettier": "^2.3.0",
     "replace": "^1.2.1",
     "resolve-url-loader": "^4.0.0",
