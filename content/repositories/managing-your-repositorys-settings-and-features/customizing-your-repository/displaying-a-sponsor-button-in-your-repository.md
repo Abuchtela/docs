@@ -15,7 +15,7 @@ shortTitle: Display a sponsor button
 ---
 ## About FUNDING files
 
-You can configure your sponsor button by editing a `FUNDING.yml` file in your repository's `.github` folder, on the default branch. You can configure the button to include sponsored developers in {% data variables.product.prodname_sponsors %}, external funding platforms, or a custom funding URL. For more information about {% data variables.product.prodname_sponsors %}, see "[AUTOTITLE](/sponsors/getting-started-with-github-sponsors/about-github-sponsors)."
+You can configure your sponsor button by editing a `FUNDING.yml` file in your repository's `.github` folder, on the default branch. You can configure the button to include sponsored developers in {% data variables.product.prodname_sponsors %}, external funding platforms, or a custom funding URL. For more information about {% data variables.product.prodname_sponsors %}, see "[AUTOTITLE][def]."
 
 You can add one username, package name, or project name per external funding platform and up to four custom URLs. You can add one organization and up to four sponsored developers in {% data variables.product.prodname_sponsors %}. Add each platform on a new line, using the following syntax.
 
@@ -84,3 +84,6 @@ Anyone with admin permissions can enable a sponsor button in a repository.
 
 - "[AUTOTITLE](/sponsors/receiving-sponsorships-through-github-sponsors/about-github-sponsors-for-open-source-contributors)"
 - "[FAQ with the {% data variables.product.prodname_sponsors %} team](https://github.blog/2019-06-12-faq-with-the-github-sponsors-team/)" on {% data variables.product.prodname_blog %}
+
+
+[def]: /sponsors/getting-started-with-github-sponsors/about-github-sponsors
