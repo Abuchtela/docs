@@ -183,7 +183,7 @@
   "license": "(MIT AND CC-BY-4.0)",
   "name": "docs.github.com",
   "optionalDependencies": {
-    "jest-puppeteer": "^5.0.3",
+    "jest-puppeteer": "^7.0.0",
     "jimp": "^0.16.1",
     "pa11y-ci": "^2.4.1",
     "puppeteer": "^9.1.1",
